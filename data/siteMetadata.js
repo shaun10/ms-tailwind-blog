@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Minimally Sustained',
   author: 'Shaun Hutchins',
   headerTitle: 'Minimally Sustained',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'A blog about minimalism, sustainability, and living with less.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
