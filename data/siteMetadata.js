@@ -7,7 +7,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://minimallysustained.com',
-  siteRepo: 'https://minimallysustained.com',
+  siteRepo: 'https://github.com/shaun10/ms-tailwind-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/google.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   // mastodon: 'https://mastodon.social/@mastodonuser',
